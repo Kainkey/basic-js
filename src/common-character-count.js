@@ -36,7 +36,7 @@ for (let i = 0; i < arr1.length; i++) {
 count++, s2 = s2.remove(i);
   
  }
- return counters
+ return counter
 }
 module.exports = {
   getCommonCharacterCount
